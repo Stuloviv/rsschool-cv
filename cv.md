@@ -1,5 +1,5 @@
-# My CV
-**Igor Stulov** 
+# My CV  
+**Igor Stulov**  
 *My contacts* 
 | Phone number | E-mail |
 | -- | -- |
